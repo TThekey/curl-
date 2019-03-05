@@ -33,7 +33,7 @@ $info = curl_getinfo($ch);
  var_dump($info);
 echo '<br/>';
 echo '111';
-
+echo '222';
 //echo output
 echo $output;
 
