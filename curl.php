@@ -33,8 +33,9 @@ $info = curl_getinfo($ch);
  var_dump($info);
 echo '<br/>';
 echo '111';
-echo '333';
-//echo output
+
+echo '444';
+
 echo $output;
 
 // close curl resource to free up system resources
